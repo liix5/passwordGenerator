@@ -1,5 +1,5 @@
 
- passwordStrength
+ 
 import React, { useState } from 'react';
 import zxcvbn from 'zxcvbn'; //  zxcvbn library for password strength estimation
 import med from '/src/assets/med.png'
