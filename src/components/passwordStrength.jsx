@@ -60,7 +60,7 @@ function PasswordStrength() {
   }
 
   return (
-    <div className='m-8  border w-96 h-[500px] flex flex-col gap-8 justify-center items-center shadow-lg'>
+    <div className=' rounded border w-96 h-[500px] flex flex-col gap-8 justify-center items-center shadow-lg'>
       <div className=' flex justify-center items-center flex-col'>
         <h1 className=' text-2xl font-bold text-[#786581]'>Test password strength </h1>
         <p className=' text-[#44426E]'>Start Now !</p>
